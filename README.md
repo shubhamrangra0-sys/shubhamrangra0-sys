@@ -27,8 +27,7 @@ I'm **Shubham Rangra**, a multidisciplinary creative professional based in Himac
 
 - **Video & Motion FX**: Adobe Premiere Pro, DaVinci Resolve, Adobe After Effects, Photoshop
 - **AI & Automation**: AI Workflows, Automation Tools, Prompt Engineering, Systems Integration
-- **Web Technologies**: HTML5, CSS3, Modern JavaScript, React.js, WordPress, Tailwind CSS
-- **Databases & Tools**: SQL, Git, GitHub, VS Code, MS Office Suite
+- **Databases & Tools**: SQL, Git, MS Office Suite
 
 ---
 
